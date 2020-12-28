@@ -1,2 +1,0 @@
-# dbdump
-Table structure
